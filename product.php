@@ -12,7 +12,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST'){
     echo 'Bạn đã nộp tác phẩm thành công'.'<br>'.'Chúng tôi sẽ thông báo qua email cho bạn ngay khi có kết quả!';
     echo '<br>'.'<a href="images/'. $image_name .'">Xem lại tác phẩm</a>';
   }else{
-    echo 'sai định dạng';
+    echo 'Sai định dạng';
   }
 }
 ?>
