@@ -7,8 +7,8 @@
     <title>Document</title>
 </head>
 <body>
-<h1 style = "text-align:center">Họa sĩ Tháng Tư</h1><br>
-<h4 style = "text-align:center">*Lưu ý: tác phẩm nộp phải là file pdf</h2><br><br>
+<h1 style = "text-align:center">LĂNG KÍNH THÁNG TƯ</h1><br>
+<h4 style = "text-align:center">*Lưu ý: tác phẩm nộp phải là file JPG hoặc PNG</h4><br><br>
 <div style = 'width:400px; margin-right:auto; margin-left:auto;'>
   <form action="product.php" method="post" enctype="multipart/form-data">
     <input type="text" name="name" placeholder="Họ và tên">
